@@ -1,4 +1,4 @@
-# 7 – References
+# 7. References
 
 Zotero group: [https://www.zotero.org/groups/4273178/fairsfair\_booksprint](https://www.zotero.org/groups/4273178/fairsfair_booksprint)
 
