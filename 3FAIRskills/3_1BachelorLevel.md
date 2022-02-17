@@ -22,3 +22,5 @@ _Table 3: Entry-level content including learning outcomes – bachelor level_
 | Data discovery (published data), data selection and use in research | basic | - [b] Can explain the importance of data discovery and reuse. |
 | Research data lifecycle | basic | - [b] Can explain the steps of the research data lifecycle. <br>- [b] Can compare different lifecycle models. |
 | Ontologies, controlled vocabularies | basic | - [b] Can explain the role of ontologies and vocabularies (Knowledge). <br>- [b] Can recognise the use of ontologies and vocabularies (Knowledge). <br>- [b] Can identify a few domain-relevant ontologies. (Knowledge). <br>- [b] Can search and find terminologies in registries. |
+
+---
