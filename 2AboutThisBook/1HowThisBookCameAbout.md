@@ -1,6 +1,6 @@
 # 2 – About this book
 
-## 2.1 How this book came about
+## 2.1 - How this book came about
 
 This handbook was first written in a book sprint organised by the EU-funded [FAIRsFAIR project](https://fairsfair.eu/). Led by the University of Göttingen, the project brought together a variety of RDM and teaching experts who wrote, edited and finalised the handbook. The aim of FAIRsFAIR, which ran from March 2019 to February 2022, is to develop and supply practical solutions to support the implementation and use of the FAIR principles throughout the research data lifecycle, including uptake of the principles in higher education.
 
