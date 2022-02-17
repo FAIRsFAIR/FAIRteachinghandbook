@@ -1,4 +1,4 @@
-# 5 – FAIR lesson plans
+# 5. FAIR lesson plans
 
 ![](../Images/5_FAIR_curriculum_and_lesson_plans.PNG)
 
@@ -27,7 +27,7 @@ All lesson plans follow the [same format](https://docs.google.com/document/d/1YO
 
 _Table 8: Mapping of lesson plans to FAIR principles_
 
-| Lesson | | F1 | F2 | F3 | F4 | | A1 | A2 | | I1 | I2 | I3 | | R1 |
+| **Lesson** | | **F1** | **F2** | **F3** | **F4** | | **A1** | **A2** | | **I1** | **I2** | **I3** | | **R1** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FAIR in a nutshell | | X | X | X | X | | X | X | | X | X | X | | X |
 | Data management plans | | X | X | X | X | | X | X | | X | X | X | | X |
@@ -46,9 +46,7 @@ _Table 8: Mapping of lesson plans to FAIR principles_
 | Research data management – overview and best practices | | X | X | X | X | | X | X | | X | X | X | | X |
 | Data management and governance in industry and research | | X | X | X | X | | X | X | | X | X | X | | X |
 
-
 _Table 9: Mapping of the competence profile topics to the lesson plans_
-
 
 | **Topic** | **Number of relevant lesson plan** (number in parantheses: the plan partly addresses the topic) |
 | --- | --- |
