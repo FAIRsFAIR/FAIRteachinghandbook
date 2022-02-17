@@ -153,29 +153,22 @@ Attributes:
 
 **Examples**
 
-1. *Example of accession with assigning authority pair, so renderer can create link. Preferred option, but appreciate many renders will not create the link:*
-
+1. *Example of accession with assigning authority pair, so renderer can create link. Preferred option, but appreciate many renders will not create the link:*  
 `<ref id=“bib2”>`  
 `<element-citation publication-type=“software”>`
 `<source>BioModels</source>`  
 `<pub-id @assigning-authority="EBI"`  
-@pub-id-type="accession" xlink:href=”https://identifiers.org/biomodels.db:BIOMD0000000156”>
-BIOMD0000000156`</pub-id>`  
+`@pub-id-type="accession" xlink:href=”https://identifiers.org/biomodels.db:BIOMD0000000156”>BIOMD0000000156</pub-id>`  
 `</element-citation>` 
-`</ref>` 
-
-2. *Example of accession with assigning authority pair, with URL too (if concern renderer(s) will not generate the link):*
-
+`</ref>`
+2. *Example of accession with assigning authority pair, with URL too (if concern renderer(s) will not generate the link):*  
 `<ref id=“bib2”>`  
 `<element-citation publication-type=“software”>`  
 `<pub-id @assigning-authority="biomodels.db" xlink:href=”https://www.ebi.ac.uk/biomodels/BIOMD0000000156”>BIOMD0000000156</pub-id>`  
 `</element-citation>`  
 `</ref>`
-
-3. *Example of identifier as URL link only (least preferred)*
-
-Github example
-
+3. *Example of identifier as URL link only (least preferred)*  
+Github example  
 `<ref id=“bib2”>`  
 `<element-citation publication-type=“software”>`  
 `<person-group person-group-type=“author”>`  
@@ -201,6 +194,10 @@ Note on authorship
 
 We recognise the author names are often missing from Github readmes, and only user names and handles are available. Likewise, contributors to code repositories vary over time, and the authors of software may differ from the authors of a research paper associated with the code. This recommendation offers no guidance on how to manage policy decisions associated with these issues. However, it deals with the lack of actual names by allowing for user names and handles to be used in author tags.
 
+---
+
 **(28)** Draft published in June 2021 by the FAIR4RS RDA working group (Chue Hong et al. 2021): [http://doi.org/10.15000/a789457](http://doi.org/10.15000/a789457), reserved DOI for revised version currently in press: [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
 
 **(29)** Revised version in press, reserved DOI: [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
+
+---
