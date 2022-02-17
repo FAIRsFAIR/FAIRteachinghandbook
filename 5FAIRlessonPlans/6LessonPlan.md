@@ -111,3 +111,5 @@ Metadata form the core of machine- and human-readable descriptions of data, be t
 **Exercises:**
 
 - [LEGO® Metadata for Reproducibility game pack - Enlighten: Publications](http://dx.doi.org/10.36399/gla.pubs.196477)
+
+---
