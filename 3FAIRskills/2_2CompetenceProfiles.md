@@ -35,3 +35,5 @@ _Table 2: Competence profiles for the bachelor&#39;s, master&#39;s and PhD degre
 | Data discovery (published data), data selection and use in research | basic | intermediate | advanced | yes (basic concept) |
 | Research data lifecycle | basic | basic | intermediate | yes |
 | Ontologies and controlled vocabularies | basic | intermediate | advanced | yes |
+
+---
