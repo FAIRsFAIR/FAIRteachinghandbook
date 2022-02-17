@@ -1,4 +1,4 @@
-## 6.3 Data management planning
+## 6.3. Data management planning
 
 Data management plans (DMPs) can be used to ensure the quality and consistency of data management throughout the data lifecycle and are required by many funders. Responsibilities for data management lie with researchers or research teams, but institutions need to offer support with many of the issues raised in DMPs.
 
@@ -23,3 +23,5 @@ DMPs are often described as living documents and should be updated according to 
 **Learn more:**
 
 - Lesson Plan 2: [DMPs](../5FAIRlessonPlans/2LessonPlan.md)
+
+---
