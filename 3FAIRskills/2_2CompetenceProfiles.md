@@ -3,7 +3,7 @@
 _Table 2: Competence profiles for the bachelor&#39;s, master&#39;s and PhD degree levels_
 
 | **Topic** | **Bachelor** (required level) | **Master** (required level) | **PhD** (required level) | **Entry-level content?** |
-|:---------|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- |
 | General principles and concepts in data management – overview | basic | intermediate | advanced | yes |
 | Overview of data types, data type registries and data formats | basic | basic | intermediate | yes |
 | Metadata, metadata formats, standards and registries | basic | intermediate | advanced | yes |
