@@ -85,3 +85,5 @@ Once the user finds the required data, they need to know how they can be accesse
 - Research Data Netherlands. (2014). Persistent identifiers and data citation explained [Video]. Retrieved from [https://youtu.be/PgqtiY7oZ6k](https://youtu.be/PgqtiY7oZ6k)
 - Martin Fenner, Joe Wass, Tom Demeranville, Sarala Wimalaratne, &amp; Richard Hallett. (2019). D2.2 PID Metadata Provenance. Zenodo. [https://doi.org/10.5281/zenodo.3248652](https://doi.org/10.5281/zenodo.3248652)
 - Introducing the PID Graph. [https://doi.org/10.5438/jwvf-8a66](https://doi.org/10.5438/jwvf-8a66)
+
+---
