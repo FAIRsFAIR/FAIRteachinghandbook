@@ -14,3 +14,5 @@ _Table 1: Fields of activity and relevant chapters_
 | Design, implementation, and adaptation of curricula | Doctoral programme managers, deans | 3 - FAIR Skills and Competences |
 | Training of PhD students and early career researchers | Support staff, trainers, lecturers, professors | 3 - FAIR Skills and Competences <br>4 - Teaching and training designs <br>5 - FAIR lesson plans |
 | Consideration and implementation of FAIR in institutional strategies, policies, administration, and management | Vice presidents/Vice rectors/ Offices of research, data protection officer | 6 - Implementing FAIR |
+
+---
