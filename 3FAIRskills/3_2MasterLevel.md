@@ -2,7 +2,7 @@
 
 _Table 4: Entry-level content including learning outcomes – master level_
 
-| **Topic** | **Required level** | **Learning outcomes** [b]=basic, [i]=intermediate, [a]=advanced] |
+| **Topic** | **Required level** | **Learning outcomes** [b]=basic, [i]=intermediate, [a]=advanced |
 | --- | --- | --- |
 | General principles and concepts in data management – overview | intermediate |- [b] Can define Research Data Management (RDM) and can describe its relevance and benefits. <br>- [i] Can describe RDM measures to be taken (including explaining why) at different stages of the research process. |
 | Overview of data types, data type registries and data formats | basic |- [b] Can describe what types of data exist (Knowledge). <br>- [b] Can explain what data type registries are (Knowledge). <br>- [b] Can identify data formats (Knowledge). |
@@ -23,3 +23,5 @@ _Table 4: Entry-level content including learning outcomes – master level_
 | Data discovery (published data), data selection and use in research | intermediate | - [b] Can explain the importance of data discovery and reuse. <br>- [i] Can discover published datasets in their discipline. <br>- [i] Can cite data. |
 | Research data lifecycle | basic | - [b] Can explain the steps of the research data lifecycle. <br>- [b] Can compare different lifecycle models. |
 | Ontologies, controlled vocabularies | intermediate | - [b] Can explain the role of ontologies and vocabularies (Knowledge). <br>- [b] Can recognise the use of ontologies and vocabularies (Knowledge). <br>- [b] Can identify a few domain-relevant ontologies (Knowledge). <br>- [b] Can search and find terminologies in registries. <br>- [i] Can use ontologies to describe resources (Apply). |
+
+---
