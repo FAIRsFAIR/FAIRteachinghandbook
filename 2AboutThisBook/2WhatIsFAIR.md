@@ -15,4 +15,6 @@ The FAIR principles are typically translated into concrete complementary actions
 | ![](../Images/2_2_figure_1_I.png) | **To be Interoperable:** <br>I1. (meta)data use a formal, accessible, shared and broadly applicable language for knowledge representation. <br>I2. (meta)data use vocabularies that follow FAIR principles <br>I3. (meta)data include qualified references to other (meta)data |
 | **To be Reusable:** <br>R1. meta(data) are richly described with a plurality of accurate and relevant attributes <br>R1.1. (meta)data are released with a clear and accessible data usage license <br>R1.2. (meta)data are associated with detailed provenance <br>R1.3. (meta)data meet domain-relevant community standards | ![](../Images/2_2_figure_1_R.png) |
 
+---
+
 **(1)** We quote the FAIR Guiding Principles as they appear in Wilkinson et al. (2016). Therefore, the spelling deviates in some places from the standard British English used in this document.
