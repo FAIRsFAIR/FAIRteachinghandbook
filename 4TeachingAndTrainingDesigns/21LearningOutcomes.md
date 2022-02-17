@@ -37,3 +37,5 @@ For more detailed learning outcomes, see [chapter 3](../3FAIRskills/0FAIRskilsCo
 **(6)** This means to focus on what the learner will be able to do after the instruction (as opposed to what will be done during the instruction).
 
 **(7)** This means not combining several pieces of knowledge, skills, or abilities in one learning outcome.
+
+---
