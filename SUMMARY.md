@@ -1,6 +1,6 @@
 # Summary
 
-- [1. Introduciton](README.md)
+- [1. Introduction](README.md)
 - [2. About this book](2AboutThisBook/1HowThisBookCameAbout.md)
   - [2.1. How this book came about](2AboutThisBook/1HowThisBookCameAbout.md)
   - [2.2. What is FAIR?](2AboutThisBook/2WhatIsFAIR.md)
