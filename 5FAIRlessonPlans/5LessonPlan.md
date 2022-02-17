@@ -86,10 +86,9 @@ The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, met
 
 **References**
 
-[Digital Preservation Handbook](https://www.dpconline.org/handbook/technical-solutions-and-tools/file-formats-and-standards)
+- [Digital Preservation Handbook](https://www.dpconline.org/handbook/technical-solutions-and-tools/file-formats-and-standards)
+- [PRONOM](http://www.nationalarchives.gov.uk/PRONOM/Default.aspx)
+- [JHOVE](http://jhove.openpreservation.org/)
+- [FAIRsharing](https://fairsharing.org/standards/) list of file formats in all disciplines
 
-[PRONOM](http://www.nationalarchives.gov.uk/PRONOM/Default.aspx)
-
-[JHOVE](http://jhove.openpreservation.org/)
-
-[FAIRsharing](https://fairsharing.org/standards/) list of file formats in all disciplines
+---
