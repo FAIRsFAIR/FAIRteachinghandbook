@@ -1,4 +1,4 @@
-## 4.2 Elemental phases in course design
+## 4.2. Elemental phases in course design
 
 Once the needs and gaps of learners have been identified, the next steps of the course design can follow. To help teachers and trainers with this, we introduce Nicholls&#39; paradigm for curriculum development, summarised by Via et al. (2020, adapted from Tractenberg et al. 2020) into five elemental phases (see also figure 2 below).
 
@@ -18,3 +18,5 @@ Ideally, following these steps will help teachers to create an effective learnin
 _Figure 2: Nicholls&#39; phases of curriculum design &amp; their dependencies by Patrick Hochstenbach, adapted from Via et al. (2020, p. 4). The rectangles show the key considerations in each phase. Red arrows represent revisions in the event that requirements resulting from the considerations have not been met yet, while green arrows depict a move to the next phase. If all requirements have been satisfied, the course or curriculum can be regarded as successful (represented by the star in the upper left)._
 
 These five steps are elaborated below, not so much to explain a curriculum development theory but to help integrate FAIR in teaching, stimulate FAIR data by teaching it, and enhance reuse of existing teaching materials on the topic of FAIR (for the latter, see particularly [chapter 5](../5FAIRlessonPlans/0LessonPlans.md)).
+
+---
