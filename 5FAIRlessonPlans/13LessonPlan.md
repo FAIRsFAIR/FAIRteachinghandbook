@@ -111,6 +111,8 @@ The list below provides some example data availability statements. Please note t
 | No new data created | &quot;No new data were created during this study. Pre-existing data underpinning this publication were obtained from NPL and are subject to licence restrictions. Full details on how these data were obtained are available in the documentation available from the University of FAIR-Data Repository at [http://doi.org/10.15129/a1234b56](http://doi.org/10.15129/a1234b56)&quot; |
 | No data | &quot;This work is entirely theoretical, there is no data underpinning this publication.&quot; |
 
+---
+
 **(24)** [https://data.blogs.bristol.ac.uk/bootcampsd/repositories/](https://data.blogs.bristol.ac.uk/bootcampsd/repositories/) 
 
 **(25)** [https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives/Access-categories](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives/Access-categories)
@@ -118,3 +120,5 @@ The list below provides some example data availability statements. Please note t
 **(26)** [https://opendatahandbook.org/guide/en/what-is-open-data/](https://opendatahandbook.org/guide/en/what-is-open-data/)
 
 **(27)** [https://data.blogs.bristol.ac.uk/bootcampSD/what-counts/](https://data.blogs.bristol.ac.uk/bootcampSD/what-counts/)
+
+---
