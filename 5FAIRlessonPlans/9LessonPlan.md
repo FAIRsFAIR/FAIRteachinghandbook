@@ -156,3 +156,6 @@ _**Tools**_
 2. Analyse different content with different licences, e.g. Flickr, YouTube, Wikimedia Commons, Vimeo, Wikipedia and the Internet Archive, Google.
 3. See and analyse examples of the CC0 licence ([https://creativecommons.org/2017/02/07/met-announcement/](https://creativecommons.org/2017/02/07/met-announcement/)). Identify the specificity of this licence.
 4. Find some examples of the real cases related to the licence, copyright and IPR issues, e.g. the case between Coca-Cola and Yotvata: [https://www.youtube.com/watch?v=2nyhjM2BDQU&amp;ab\_channel=EliLevineGoldberg](https://www.youtube.com/watch?v=2nyhjM2BDQU&amp;ab_channel=EliLevineGoldberg).
+
+---
+
