@@ -16,22 +16,22 @@
 
 **Summary of tasks/actions:**
 
-1. **Introduce the concept of repositories.**
-   1. **Explain the following:**
+1. Introduce the concept of repositories.
+   1. Explain the following:
 
       Repositories are used to store, document and publish all kinds of digital objects. They are storage locations for digital (and physical) objects which enable the separate publication and archiving of digital objects
       
-   2. **Discuss: Why use a repository?**
+   2. Discuss: Why use a repository?
    
       Data repositories can help make a researcher&#39;s data more discoverable and accessible, and lead to potential reuse. Using a repository can lead to increased citations of your work (22). Data repositories can also serve as backups during rare events where data are lost to the researcher and must be retrieved. Depending on the discipline requirements – publisher, funders, institutional policies, national policies – researchers may be required to store their data in certain repositories.
       
-      **Practical exercise:** Check what you need to address with your local institutional requirements. Are you obliged to upload your research outputs locally?
-2. **FAIR principles and repositories**
-   1. **Findability:** Repositories can provide a persistent and unique identifier for data; help to add rich, clear and machine-readable metadata to data; make the data findable using web-based search engines
-   2. **Accessibility:** Repositories can have open, free and standardised communication protocols with authentication and authorisation procedures; provide the existence of metadata independent of the availability of the data
-   3. **Interoperability:** Repositories can use common semantic language, making data interoperable with applications or other workflows for analysis, storage and processing; help to provide metadata with vocabularies according to FAIR principles.
-   4. **Reusability:** Repositories can promote data reuse; help to provide rich, accurate relevant metadata with a data usage licence, detailed provenance, and using common standards.
-3. **Different types of repositories:**
+      Practical exercise: Check what you need to address with your local institutional requirements. Are you obliged to upload your research outputs locally?
+2. FAIR principles and repositories
+   1. Findability: Repositories can provide a persistent and unique identifier for data; help to add rich, clear and machine-readable metadata to data; make the data findable using web-based search engines
+   2. Accessibility: Repositories can have open, free and standardised communication protocols with authentication and authorisation procedures; provide the existence of metadata independent of the availability of the data
+   3. Interoperability: Repositories can use common semantic language, making data interoperable with applications or other workflows for analysis, storage and processing; help to provide metadata with vocabularies according to FAIR principles.
+   4. Reusability: Repositories can promote data reuse; help to provide rich, accurate relevant metadata with a data usage licence, detailed provenance, and using common standards.
+3. Different types of repositories:
    1. Identify discipline-specific vs. cross-discipline repositories: Repositories can be classified according to various aspects. In most cases, they are distinguished by whether they are discipline-specific, cross-discipline/generic, computing centre-based, or institutional. Discipline-specific or disciplinary repositories offer the benefits of visibility in the research community, research data management expertise, specialised tools, and are already established services in some disciplines. However, not all academic subject areas have established discipline-specific repositories.
    
       Examples of free-to-use discipline-specific repositories:
@@ -44,7 +44,7 @@
       - [Figshare](https://figshare.com/) (free to use)
   
      1. Institutional repositories are often free of charge and can be used for all of the institution&#39;s own subject areas. Many universities support research data management on campus through a central service. Research data services staff can be an excellent source of research data management support, including repository selection, and can help you comply with funder, publisher, and university requirements. Additionally, High Performance Computers (HPC) have infrastructure to support research using models and simulations, which may be involved in generating and/or analysing high-volume data. The IT operations team at the organisation may have recommendations for data management, storage and preservation.
-4. **Discuss how to choose a data repository**
+4. Discuss how to choose a data repository
    1. When selecting a repository, consider these factors:
       - Choose a repository early on when you start your data project. This can help you with efficiently structuring and preparing your data when it comes time to share it.
       - Consider how FAIR a repository is in terms of the services it offers you (23).
@@ -56,18 +56,18 @@
       - Offers clear terms and conditions that meet legal requirements, e.g. for data protection, and allow reuse without unnecessary licensing conditions, e.g. restricted vs. open.
       - Provides guidance on how to cite the data that has been deposited.
       - Whether the repository charges for its services.
-   2. **There are a number of resources to help choose a repository.** This chart is designed to assist researchers in finding a cross-disciplinary/generic repository should no discipline-specific repository be available to preserve their research data: [https://doi.org/10.5281/zenodo.3946719](https://doi.org/10.5281/zenodo.3946719)
-   3. Discuss using a **catalogue for data repositories:** In order to find an appropriate repository, the cross-disciplinary directory re3data ([https://www.re3data.org](https://www.re3data.org/)) can be used. This is the outcome of a DFG-funded (Deutsche Forschungsgemeinschaft – German Research Foundation) project that lists German and international repositories for research data, with more than 2,580 entries at present. Another option is the RDA-endorsed FAIRsharing ([https://fairsharing.org/databases/)](https://fairsharing.org/databases/) which interlinks repositories, (meta)data standards and policies.
+   2. There are a number of resources to help choose a repository. This chart is designed to assist researchers in finding a cross-disciplinary/generic repository should no discipline-specific repository be available to preserve their research data: [https://doi.org/10.5281/zenodo.3946719](https://doi.org/10.5281/zenodo.3946719)
+   3. Discuss using a catalogue for data repositories: In order to find an appropriate repository, the cross-disciplinary directory re3data ([https://www.re3data.org](https://www.re3data.org/)) can be used. This is the outcome of a DFG-funded (Deutsche Forschungsgemeinschaft – German Research Foundation) project that lists German and international repositories for research data, with more than 2,580 entries at present. Another option is the RDA-endorsed FAIRsharing ([https://fairsharing.org/databases/)](https://fairsharing.org/databases/) which interlinks repositories, (meta)data standards and policies.
    4. For managing sensitive data, see [lesson plan 12](12LessonPlan.md) on &#39;Dealing with confidential, personal, sensitive and private data and ethical aspects&#39;.
 5. **There is a wealth of data repositories out there. How do I find and choose an appropriate repository?**
    1. You can find a suitable repository by consulting [FAIRsharing](https://fairsharing.org/databases/) and [re3data.org](https://www.re3data.org/). Here you can select the discipline, type of data, and/or country. It is also possible to filter by very detailed criteria, for example, for repositories that charge a fee for data upload or where data use is restricted. Filtering by software is also an option and can be helpful if you are using an application programming interface (API) with a programming language/library, e.g. [Zenodo API and Python](https://developers.zenodo.org/?python), [R and Dataverse](https://www.rdocumentation.org/packages/dataverse/versions/0.3.8).
    2. Discuss with the class how to select a FAIR-aligned repository. Some infrastructure providers offer overviews of how their services enable FAIR.   
    Zenodo offers an overview of how the service responds to the FAIR principles: [https://about.zenodo.org/principles/](https://about.zenodo.org/principles/).  
  Figshare also published a statement paper on how it supports the FAIR principles: [https://knowledge.figshare.com/publisher/fair-figshare](https://knowledge.figshare.com/publisher/fair-figshare).
-6. **Apply your knowledge:**
+6. Apply your knowledge:
    1. Based on the &#39;How to choose a repository&#39; section and [OpenAire&#39;s guidance](https://www.openaire.eu/opendatapilot-repository-guide), use [FAIRsharing](https://fairsharing.org/databases/) or [re3data](https://www.re3data.org/) to find a trustworthy repository in political science. What did you find?
    2. From the &#39;FAIR principles and repositories&#39; section, use the [Zenodo Sandbox](https://sandbox.zenodo.org/) to upload test data, e.g. an example text file, and assign a licence. What did you find?
-7. **Take-home task:**
+7. Take-home task:
    1. Understand how you can connect your research for better discovery. Read more about your digital presence: [https://data.agu.org/resources/digital-presence](https://data.agu.org/resources/digital-presence)
 
 **Materials/Equipment**
