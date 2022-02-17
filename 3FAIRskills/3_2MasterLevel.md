@@ -1,4 +1,6 @@
-_Table 4: Entry-level content including learning outcomes – Master level_
+### 3.3.2. Entry-level content including learning outcomes – Master level
+
+_Table 4: Entry-level content including learning outcomes – master level_
 
 | **Topic** | **Required level** | **Learning outcomes** [b]=basic, [i]=intermediate, [a]=advanced] |
 | --- | --- | --- |
