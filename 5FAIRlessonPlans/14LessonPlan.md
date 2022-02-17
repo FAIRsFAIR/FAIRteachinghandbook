@@ -176,7 +176,7 @@ Github example
 `</element-citation>`  
 `</ref>`
 
-Additional reading
+**Additional reading**
 
 Software Metadata Recommended Format Guide (SMRF)
 
