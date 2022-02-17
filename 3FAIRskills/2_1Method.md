@@ -10,8 +10,8 @@ This step also involved excluding or merging Knowledge Units considered irreleva
 
 In a second step, the group discussed and agreed upon which of the selected Knowledge Units could be considered entry-level content, i.e. compulsory topics. This was then performed again for each of the bachelor&#39;s, master&#39;s and PhD degree levels. The competence profiles defined using this method are presented in the table below.
 
-**(4)** The procedure in detail was as follows: First, for each of the six Knowledge Unit Areas, one (sometimes two) of the involved book sprint participants, based on their expertise and experience, estimated the required level for bachelor&#39;s, master&#39;s and PhD degree students. These were reviewed by the other participants before the next session. During the subsequent session, the group discussed each individual item, and then approved or amended the classification. Knowledge Units deemed irrelevant or redundant were removed to consolidate the table collaboratively.
-
 ---
+
+**(4)** The procedure in detail was as follows: First, for each of the six Knowledge Unit Areas, one (sometimes two) of the involved book sprint participants, based on their expertise and experience, estimated the required level for bachelor&#39;s, master&#39;s and PhD degree students. These were reviewed by the other participants before the next session. During the subsequent session, the group discussed each individual item, and then approved or amended the classification. Knowledge Units deemed irrelevant or redundant were removed to consolidate the table collaboratively.
 
 **(5)** In addition to bachelor&#39;s, master&#39;s and PhD degree students, we considered three other roles in this first step: Postdoc/Researcher, PI and support staff. These were later dropped due to capacity reasons and to focus on the most relevant target audiences of HEI teaching.
