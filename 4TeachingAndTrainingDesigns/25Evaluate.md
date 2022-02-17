@@ -11,3 +11,5 @@ With shorter courses, e.g. a 4-hour workshop, evaluating course effectiveness is
 To some extent, the metrics provided in step 4 to assess learners&#39; progress can also be applied to evaluate overall course effectiveness. However, you should note that these metrics may also need to be improved upon iteratively.
 
 Conducting an anonymous survey on student satisfaction can complement an evaluation of course effectiveness. However, this should be interpreted with care because student satisfaction may be influenced by factors other than successful learning (Denson et al. 2010). In addition, students are biased in evaluating how their own skills and knowledge improve (Dunning et al. 2004; Karpen 2018).
+
+---
