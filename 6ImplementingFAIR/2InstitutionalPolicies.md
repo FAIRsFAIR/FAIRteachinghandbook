@@ -1,4 +1,4 @@
-## 6.2 Arriving at FAIR institutional policies
+## 6.2. Arriving at FAIR institutional policies
 
 Adopting an institutional research data policy that embraces the FAIR principles can result in recognition, energy and resources for the implementation of good practices since FAIR implementation requires reshaping and alignment of existing policies.
 
