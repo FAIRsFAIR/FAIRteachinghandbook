@@ -15,7 +15,7 @@
   - [3.3. Learning outcomes](3FAIRskills/3LearningOutcomes.md)
     - [3.3.1. Bachelor level](3FAIRskills/3_1BachelorLevel.md)
     - [3.3.2. Master Level](3FAIRskills/3_2MasterLevel.md)
-    - [3.3.3. Doctoral Level](3FAIRskills/3_2DoctoralLevel.md)
+    - [3.3.3. Doctoral Level](3FAIRskills/3_3DoctoralLevel.md)
 - [4. Teaching and training designs for FAIR](4TeachingAndTrainingDesigns/1Introduction.md)
   - [4.1. Introduction](4TeachingAndTrainingDesigns/1Introduction.md)
   - [4.2. Elemental phases in course design](4TeachingAndTrainingDesigns/2PhasesCourseDesign.md)
