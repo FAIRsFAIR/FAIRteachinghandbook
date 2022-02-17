@@ -118,3 +118,5 @@ Library Carpentry. The Top 10 FAIR Data and Software things. [https://librarycar
 PARTHENOS. PARTHENOS Guidelines to FAIRify Data Management and make data reusable. 2019. [https://doi.org/10.5281/zenodo.3368858](https://doi.org/10.5281/zenodo.3368858)
 
 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., . . . Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 9. Doi: [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+
+---
