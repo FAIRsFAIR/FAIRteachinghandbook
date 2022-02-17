@@ -3,7 +3,7 @@
 _Table 3: Entry-level content including learning outcomes – bachelor level_
 
 | **Topic** | **Required level** | **Learning outcomes** <br>[b]=basic, [i]=intermediate, [a]=advanced] |
-| --- | --- | --- |
+| :--- | :--- | :------------------------------------- |
 | General principles and concepts in data management – overview | basic | - [b] Can define Research Data Management (RDM) and can describe its relevance and benefits. | Overview of data types, data type registries and data formats | basic | - [b] Can describe what types of data exist (Knowledge). <br>- [b] Can explain what data type registries are (Knowledge). <br>- [b] Can identify data formats (Knowledge). |
 | Metadata, metadata formats, standards and registries | basic | - [b] Can describe types of metadata. <br>- [b] Can recognise metadata formats. <br>- [b] Can identify metadata standards. <br>- [b] Can use metadata standards to describe resources. <br>- [b] Can explain what metadata registries are. <br>- [b] Can search and find data and metadata standards registries. |
 | Open Research, Open Access, Open Data | basic | - [b] Can paraphrase the concept of Open Research. <br>- [b] Can describe the benefits of Open Research. |
