@@ -1,4 +1,4 @@
-## 6.6 Data publication
+## 6.6. Data publication
 
 Proper recognition of researchers&#39; contributions is fundamental to ensuring widespread adoption of FAIR principles. Once the data have been created, processed, analysed, and their preservation ensured, a clear pathway to crediting the authors in all data-related publications needs to be established. As a minimum standard, datasets need to be cited like other references so as to credit the researchers involved.
 
@@ -36,11 +36,15 @@ Making software and code generated in the course of research available via platf
 
 Other forms of articles covering a specific aspect of research or the research process focus on hardware and lab resources as well as microarticles and visual case discussions (see [Elsevier Research Elements](https://www.elsevier.com/authors/tools-and-resources/research-elements)).
 
-Learn more:
+**Learn more:**
 
 - Lesson Plan 13: [Data access](../5FAIRlessonPlans/13LessonPlan.md)
 - Lesson Plan 14: [FAIR software/citable code](../5FAIRlessonPlans/14LessonPlan.md)
 
+---
+
 **(13)** Public Library of Science (PLOS)
 
 **(14)** BioMed Central (BMC)
+
+---
