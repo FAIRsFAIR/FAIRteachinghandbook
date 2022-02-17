@@ -1,4 +1,4 @@
-## Step 2. Select or develop learning experiences (LEs)
+## Step 2. Select or develop learning experiences
 
 Below is a list of learning experiences commonly used in teaching and training based on Via et al. (2020) and our own experiences.
 
