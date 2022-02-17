@@ -1,4 +1,4 @@
-### Competence profiles
+### 3.2.2. Competence profiles
 
 _Table 2: Competence profiles for the bachelor&#39;s, master&#39;s and PhD degree levels_
 
