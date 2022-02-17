@@ -30,4 +30,8 @@ DMPs cover all core aspects of the FAIR principles. As a result, following the t
 
 Depending on learners&#39; existing knowledge and individual needs, content can also be ordered in other ways. This is especially relevant if the overall course has a specific topic, e.g. &#39;metadata&#39;, that you also want to present _in situ_ and with relevance to the overall FAIR landscape.
 
+---
+
 **(10)** Due to different disciplines and contexts, there is a large variety of such models (see, for example, Ball 2012).
+
+---
