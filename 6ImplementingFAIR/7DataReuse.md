@@ -1,4 +1,4 @@
-## 6.7 Data reuse
+## 6.7. Data reuse
 
 Enabling and supporting the reuse of data is one of the core aims of the FAIR principles, and the preceding chapters looked at the reusability of data from many angles, mostly in regard to workflows and practices from a researcher&#39;s point of view. This chapter looks at measures that institutions can implement to support and promote the reuse of data.
 
@@ -32,9 +32,13 @@ An institutional aim should be to create a virtuous cycle in which researchers b
 - promoting hands-on teaching with existing datasets on all levels and in all disciplines; and
 - creating experimental and collaborative spaces like Data Labs ([Open a Glam Lab](https://glamlabs.pubpub.org/) offers advice how to approach this task).
 
-Learn more:
+**Learn more:**
 
 - Lesson Plan 9: [Licences, copyright and intellectual property rights (IPR) issues](../5FAIRlessonPlans/9LessonPlan.md)
 - Lesson plan 10: [Finding and reusing data](../5FAIRlessonPlans/10LessonPlan.md)
 
+---
+
 **(15)** For more detail, see, for example, the data sharing agreement framework template of the University of Wageningen: [https://www.wur.nl/web/file?uuid=b8299644-97b7-4d8f-959e-25f8fce9fb77&amp;owner=497277b7-cdf0-4852-b124-6b45db364d72&amp;contentid=546669](https://www.wur.nl/web/file?uuid=b8299644-97b7-4d8f-959e-25f8fce9fb77&amp;owner=497277b7-cdf0-4852-b124-6b45db364d72&amp;contentid=546669)
+
+---
