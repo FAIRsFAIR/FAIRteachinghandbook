@@ -105,4 +105,8 @@ Across the research disciplines there are thousands of standards that act as pil
 - Ball, A., &amp; Duke, M. (2015). &#39;How to Cite Datasets and Link to Publications&#39;. DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: [http://www.dcc.ac.uk/resources/how-guides](http://www.dcc.ac.uk/resources/how-guides)
 - Gregory, K., Groth, P., Scharnhorst, A., &amp; Wyatt, S. (2020). Lost or Found? Discovering Data Needed for Research. Harvard Data Science Review, 2(2). [https://doi.org/10.1162/99608f92.e38165eb](https://doi.org/10.1162/99608f92.e38165eb)
 
+---
+
 **(21)** Wilkinson, M. D. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci. Data 3:160018 doi: 10.1038/sdata.2016.18 (2016).
+
+---
