@@ -1,4 +1,4 @@
-## 2.2 What is FAIR?
+## 2.2. What is FAIR?
 
 In 2016, the **&#39;[FAIR Guiding Principles for scientific data management and stewardship](http://www.nature.com/articles/sdata201618)&#39;** were published in Scientific Data (Wilkinson et al. 2016). FAIR stands for findable, accessible, interoperable and reusable. The FAIR principles have become increasingly important, acting as guidelines to improve the entire lifecycle of research data management.
 
