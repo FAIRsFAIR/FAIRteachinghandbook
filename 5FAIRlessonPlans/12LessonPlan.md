@@ -207,3 +207,5 @@ General (confidential, personal, sensitive and private data):
 1. Ask students to take the informed consent template they intend to use and then discuss it with a privacy expert in their institution, adjusting as and where necessary to be able to publish/share data in the way they envision at the end of their project.
 2. Ask students to have a close look at their own data and determine if they can be anonymised and, if so, if the anonymised result is still worth publishing/sharing.
 3. Ask students to practice pseudonymisation and anonymisation techniques with a sample of their dataset so they learn how these techniques affect their data.
+
+---
