@@ -10,11 +10,11 @@ The FAIR principles are typically translated into concrete complementary actions
 
 | | |
 | --- | --- |
-| ![](../Images/2_2_figure_1_F.png) | **To be Findable:** <br>F1. (meta)data are assigned a globally unique and persistent identifier <br>F2. data are described with rich metadata (defined by R1 below) <br>F3. metadata clearly and explicitly include the identifier of the data it describes <br>F4. (meta)data are registered or indexed in a searchable resource |
-| **To be Accessible:** <br>A1. (meta)data are retrievable by their identifier using a standardized communications protocol <br>A1.1 the protocol is open, free, and universally implementable <br>A1.2 the protocol allows for an authentication and authorization procedure, where necessary <br>A2. metadata are accessible, even when the data are no longer available | ![](../Images/2_2_figure_1_A.png) |
-| ![](../Images/2_2_figure_1_I.png) | **To be Interoperable:** <br>I1. (meta)data use a formal, accessible, shared and broadly applicable language for knowledge representation. <br>I2. (meta)data use vocabularies that follow FAIR principles <br>I3. (meta)data include qualified references to other (meta)data |
-| **To be Reusable:** <br>R1. meta(data) are richly described with a plurality of accurate and relevant attributes <br>R1.1. (meta)data are released with a clear and accessible data usage license <br>R1.2. (meta)data are associated with detailed provenance <br>R1.3. (meta)data meet domain-relevant community standards | ![](../Images/2_2_figure_1_R.png) |
+| ![](../Images/2_2_figure_1_F.png) | **To be Findable:** <br>**F1.** (meta)data are assigned a globally unique and persistent identifier <br>**F2.** data are described with rich metadata (defined by R1 below) <br>**F3.** metadata clearly and explicitly include the identifier of the data it describes <br>**F4.** (meta)data are registered or indexed in a searchable resource |
+| **To be Accessible:** <br>**A1.** (meta)data are retrievable by their identifier using a standardized communications protocol <br>**A1.1.** the protocol is open, free, and universally implementable <br>**A1.2.** the protocol allows for an authentication and authorization procedure, where necessary <br>A2. metadata are accessible, even when the data are no longer available | ![](../Images/2_2_figure_1_A.png) |
+| ![](../Images/2_2_figure_1_I.png) | **To be Interoperable:** <br>**I1.** (meta)data use a formal, accessible, shared and broadly applicable language for knowledge representation. <br>**I2.** (meta)data use vocabularies that follow FAIR principles <br>**I3.** (meta)data include qualified references to other (meta)data |
+| **To be Reusable:** <br>**R1.** meta(data) are richly described with a plurality of accurate and relevant attributes <br>**R1.1.** (meta)data are released with a clear and accessible data usage license <br>**R1.2.** (meta)data are associated with detailed provenance <br>**R1.3.** (meta)data meet domain-relevant community standards | ![](../Images/2_2_figure_1_R.png) |
 
----
+----
 
 **(1)** We quote the FAIR Guiding Principles as they appear in Wilkinson et al. (2016). Therefore, the spelling deviates in some places from the standard British English used in this document.
