@@ -1,6 +1,6 @@
-# 4 – Teaching and training designs for FAIR
+# 4. Teaching and training designs for FAIR
 
-## 4.1 Introduction
+## 4.1. Introduction
 
 FAIR has attracted considerable interest in higher education and research circles. Teaching FAIR can be positioned in the broader discussion about advancing data literacy (see figure 1 below; for more detail on information literacy for higher education, see ACRL 2015). Moreover, teaching FAIR is increasingly important since the [FAIRsFAIR D7.1 survey](https://doi.org/10.5281/zenodo.3629682) (Stoy et al. 2020) has shown that courses on data handling (i.e. data analysis and/or scientific programming) rarely cover core FAIR topics like metadata standards, persistent identifiers and provenance.
 
@@ -25,3 +25,6 @@ After having read this chapter, as a teacher you should be able to:
 - help your students (or other persons whom it may concern) to use open resources combined with disciplinary theories and models.
 
 Before thinking about and working on the structure and content of a course or learning programme, it is important to take the target audience into consideration, e.g. researcher-facing vs. undergraduate student-facing. Identifying their needs, previous knowledge and existing skills with regard to RDM and the FAIR principles, as well as the gaps that need to be addressed is a crucial step for a successful course. [Step 2](22LearningExperiences.md) in chapter 4.2 suggests a number of measures that can be taken in this regard.
+
+---
+
