@@ -32,7 +32,7 @@
    3. **Interoperability:** Repositories can use common semantic language, making data interoperable with applications or other workflows for analysis, storage and processing; help to provide metadata with vocabularies according to FAIR principles.
    4. **Reusability:** Repositories can promote data reuse; help to provide rich, accurate relevant metadata with a data usage licence, detailed provenance, and using common standards.
 3. **Different types of repositories:**
-   1. **Identify discipline-specific vs. cross-discipline repositories:** Repositories can be classified according to various aspects. In most cases, they are distinguished by whether they are discipline-specific, cross-discipline/generic, computing centre-based, or institutional. Discipline-specific or disciplinary repositories offer the benefits of visibility in the research community, research data management expertise, specialised tools, and are already established services in some disciplines. However, not all academic subject areas have established discipline-specific repositories.
+   1. Identify discipline-specific vs. cross-discipline repositories: Repositories can be classified according to various aspects. In most cases, they are distinguished by whether they are discipline-specific, cross-discipline/generic, computing centre-based, or institutional. Discipline-specific or disciplinary repositories offer the benefits of visibility in the research community, research data management expertise, specialised tools, and are already established services in some disciplines. However, not all academic subject areas have established discipline-specific repositories.
    
       Examples of free-to-use discipline-specific repositories:
       - [ICPSR](https://www.icpsr.umich.edu/web/pages/about/) for the social sciences
@@ -43,7 +43,7 @@
       - [ZENODO](https://zenodo.org/) (free to use, open source)
       - [Figshare](https://figshare.com/) (free to use)
   
-     1. **Institutional repositories** are often free of charge and can be used for all of the institution&#39;s own subject areas. Many universities support research data management on campus through a central service. Research data services staff can be an excellent source of research data management support, including repository selection, and can help you comply with funder, publisher, and university requirements. Additionally, High Performance Computers (HPC) have infrastructure to support research using models and simulations, which may be involved in generating and/or analysing high-volume data. The IT operations team at the organisation may have recommendations for data management, storage and preservation.
+     1. Institutional repositories are often free of charge and can be used for all of the institution&#39;s own subject areas. Many universities support research data management on campus through a central service. Research data services staff can be an excellent source of research data management support, including repository selection, and can help you comply with funder, publisher, and university requirements. Additionally, High Performance Computers (HPC) have infrastructure to support research using models and simulations, which may be involved in generating and/or analysing high-volume data. The IT operations team at the organisation may have recommendations for data management, storage and preservation.
 4. **Discuss how to choose a data repository**
    1. When selecting a repository, consider these factors:
       - Choose a repository early on when you start your data project. This can help you with efficiently structuring and preparing your data when it comes time to share it.
@@ -87,3 +87,5 @@
 - AGU (n.d.) Data &amp; Software for Authors. Accessed 23 July 2021. [https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Data-and-Software-for-Authors)
 - COPDESS (2021) _Enabling FAIR Data - FAQs - Selecting a (FAIR) repository._ Accessed 24 June 2021. [http://www.copdess.org/enabling-fair-data-project/enabling-fair-data-faqs/#1\_Selecting\_a\_Repository](http://www.copdess.org/enabling-fair-data-project/enabling-fair-data-faqs/#1_Selecting_a_Repository).
 - Stall, Shelley, Martone, Maryann E., Chandramouliswaran, Ishwar, Crosas, Mercè, Federer, Lisa, Gautier, Julian, Hahnel, Mark, Larkin, Jennie, Lowenberg, Daniella, Pfeiffer, Nicole, Sim, Ida, Smith, Tim, Van Gulick, Ana E., Walker, Erin, Wood, Julie, Zaringhalam, Maryam, &amp; Zigoni, Alberto. (2020). _Generalist Repository Comparison Chart._ Zenodo. [https://doi.org/10.5281/zenodo.3946719](https://doi.org/10.5281/zenodo.3946719)
+
+---
