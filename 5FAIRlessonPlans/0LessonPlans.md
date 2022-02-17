@@ -82,4 +82,8 @@ _Table 9: Mapping of the competence profile topics to the lesson plans_
 | Research data lifecycle | (4) |
 | Ontologies and controlled vocabularies | 7 |
 
+---
+
 **(11)** The lesson plan template used here is based on this template: [https://www.class-templates.com/support-files/lpt\_word\_001-printable\_lesson\_plan\_template.pdf](https://www.class-templates.com/support-files/lpt_word_001-printable_lesson_plan_template.pdf)
+
+----
