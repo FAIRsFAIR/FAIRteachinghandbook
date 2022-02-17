@@ -8,7 +8,7 @@
   - [2.4. Who will find this book useful and why?](2AboutThisBook/4WhoWillFindThisBookUsefulAndWhy.md)
   - [2.5. About the authors & facilitators](2AboutThisBook/5AboutAuthorsFacilitators.md)
 - [3. FAIR skills and competences](3FAIRskills.md)
-  - [3. FAIR skills and competences](3FAIRskills/0FAIRskilsCompetences.md) 
+  - [FAIR skills and competences](3FAIRskills/0FAIRskilsCompetences.md) 
   - [3.1. The FAIRsFAIR Competence Framework and Body of Knowledge for Higher Education](3FAIRskills/1FAIRsFAIRCompetenceFrameworkAndBoKforHE.md)
   - [3.2. FAIR competence profiles for bachelor’s, master’s and doctoral degree levels](3FAIRskills/2_1Method.md)
     - [3.2.1. Method](3FAIRskills/2_1Method.md)
