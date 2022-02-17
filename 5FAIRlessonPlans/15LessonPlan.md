@@ -19,9 +19,8 @@ This lesson is intended to deliver a concise overview of the research data manag
 
 **Delivery format:**
 
-This lesson can be delivered in the form of a tutorial, webinar or self-paced self-study course
-
-Required time: 2 lecture sessions (1.5 hrs each) and 1 practice session (approx 1.5 hrs)
+- This lesson can be delivered in the form of a tutorial, webinar or self-paced self-study course
+- Required time: 2 lecture sessions (1.5 hrs each) and 1 practice session (approx 1.5 hrs)
 
 **Prerequisites:**
 
@@ -70,9 +69,9 @@ G. Open Research and Open Data (definition, standards, Open Data use and reuse, 
 
 Hands-on practice including the following topics:
 
-a) Data management plan design, templates and tools  
-b) Metadata and tools, metadata registries  
-c) Selection of licences for Open Data and contents, e.g. Creative Commons and Open Database
+1. Data management plan design, templates and tools  
+2. Metadata and tools, metadata registries  
+3. Selection of licences for Open Data and contents, e.g. Creative Commons and Open Database
 
 **Materials/Equipment**
 
