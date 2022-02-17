@@ -1,7 +1,7 @@
 # Índice
 
 - [1. Introduciton](README.md)
-- [2. About this book](2AboutThisBook/1HowThisBookCameAbout.md)
+- 2. About this book
   - [2.1. How this book came about](2AboutThisBook/1HowThisBookCameAbout.md)
   - [2.2. What is FAIR?](2AboutThisBook/2WhatIsFAIR.md)
   - [2.3. Why make data FAIR?](2AboutThisBook/3WhyMakeDataFAIR.md)
