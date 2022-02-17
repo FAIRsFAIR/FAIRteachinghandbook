@@ -18,3 +18,6 @@ The FAIR principles are typically translated into concrete complementary actions
 ----
 
 **(1)** We quote the FAIR Guiding Principles as they appear in Wilkinson et al. (2016). Therefore, the spelling deviates in some places from the standard British English used in this document.
+
+---
+
