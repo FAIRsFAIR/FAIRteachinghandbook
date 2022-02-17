@@ -20,6 +20,6 @@ Coordinating this support and aiding researchers with the planning process via t
 
 DMPs are often described as living documents and should be updated according to changing circumstances.
 
-Learn more:
+**Learn more:**
 
 - Lesson Plan 2: [DMPs](../5FAIRlessonPlans/2LessonPlan.md)
