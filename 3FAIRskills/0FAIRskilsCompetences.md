@@ -7,6 +7,8 @@ The competence profiles suggested here were developed based on the FAIR Competen
 
 ![](../Images/3_FAIRSkills_and_Competencies.png)
 
+---
+
 **(2)** Initially, we had considered six roles in total. In addition to bachelor&#39;s, master&#39;s and PhD degree students, we also looked at postdoc/researcher, PI and support staff. However, due to capacity limitations, the latter three were dropped in favour of the target audiences most relevant for HEI teaching.
 
 **(3)** In this draft version, one of four areas of the original version from the EDISON project (EDISONcommunity, 2020) – Research Data Management – has been updated and further developed. This is the domain most relevant to FAIR-related competences in university teaching. The other domains (Data Science Engineering, Data Science Research Methods and Project Management, as well as Data Science Domain Knowledge as Business Process Management) remain the same as in the original version.  
