@@ -105,6 +105,10 @@ Use cases:
   - OpenRefine tool (data clean, data transformation, data normalisation, etc.)
   - Data FAIRification tools: [https://fairplus.github.io/the-fair-cookbook/content/recipes/interoperability/rdf-conversion.html](https://fairplus.github.io/the-fair-cookbook/content/recipes/interoperability/rdf-conversion.html)
 
+---
+
 **(19)** Good example on standardising date time stamp in: Data Tree, module 2, topic 4, Data Handling and Formats: [Practicalities: Presentation: Data Handling and Formats (datatree.org.uk)](https://datatree.org.uk/mod/scorm/player.php?a=30&currentorg=00M2_T4_20181014_ORG&scoid=83)
 
 **(20)** [Global Taxonomy Initiative (cbd.int)](https://www.cbd.int/gti/)
+
+---
