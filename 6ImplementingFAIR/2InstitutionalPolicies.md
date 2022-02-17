@@ -58,10 +58,14 @@ Sample guides and perspectives on institutional approaches:
 - Association of American University&#39;s [Guide to Accelerate Public Access to Research Data](https://www.aau.edu/accelerating-public-access-research-data) – Discussions and recommendations on institutional strategies to advance public access to research data.
 - Institutional policies are registered by [FAIRsharing](https://fairsharing.org/), making them discoverable and citable (see [this example](https://doi.org/10.25504/FAIRsharing.aeury4) from the University of Oxford).
 
-Learn more:
+**Learn more:**
 
 - Lesson Plan 9: [Licences, copyright and intellectual property rights (IPR) issues](../5FAIRlessonPlans/9LessonPlan.md)
 - Lesson Plan 12: [Dealing with confidential, personal, sensitive and private data and ethical aspects](../5FAIRlessonPlans/12LessonPlan.md)
 - Lesson Plan 16: [Data management and governance in industry and research](../5FAIRlessonPlans/16LessonPlan.md)
 
+---
+
 **(12)** LERU: League of European Ressearch Universities
+
+---
