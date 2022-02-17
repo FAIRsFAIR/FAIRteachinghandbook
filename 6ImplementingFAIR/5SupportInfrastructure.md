@@ -1,4 +1,4 @@
-## 6.5 Support infrastructure
+## 6.5. Support infrastructure
 
 Resources and infrastructure are required to enable FAIR data practices within a higher education institution. However, some of the requirements in FAIR can be met through open-source solutions so as to maximise potential reuse of data. Investment in both staffing and platforms is recommended to enable academics to optimise FAIR data.
 
