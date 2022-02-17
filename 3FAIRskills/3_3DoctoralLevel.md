@@ -2,7 +2,7 @@
 
 _Table 5: Entry-level content including learning outcomes – doctoral level_
 
-| **Topic** | **Required level** | **Learning outcomes** <br>[b]=basic, [i]=intermediate, [a]=advanced] |
+| **Topic** | **Required level** | **Learning outcomes** <br>[b]=basic, [i]=intermediate, [a]=advanced |
 | --- | --- | --- |
 | General principles and concepts in data management – overview | advanced | - [b] Can define Research Data Management (RDM) and can describe its relevance and benefits. <br>- [i] Can describe RDM measures to be taken (including explaining why) at different stages of the research process. <br>- [a] Can practically apply theoretical knowledge about proper RDM measures to be taken at different stages to their own research process/project. |
 | Overview of data types, data type registries and data formats | intermediate | - [b] Can describe what types of data exist (Knowledge). <br>- [b] Can explain what data type registries are (Knowledge). <br>- [b] Can identify data formats (Knowledge). <br>- [i] Can determine proper data types for a resource (Analyse). <br>- [i] Can use a data type registry (Apply). <br>- [i] Can use proper data formats to express resources (Apply). |
