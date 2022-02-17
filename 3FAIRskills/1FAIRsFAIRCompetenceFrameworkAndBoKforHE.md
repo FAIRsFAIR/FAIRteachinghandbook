@@ -23,3 +23,5 @@ The Data Management KAG of the (draft) BoK comprises six Knowledge Areas (KA):
 - Data archives and data libraries
 
 For the full version of the KAG (draft) BoK, see [here](../7ResourcesReferences/3BoK.md).
+
+---
