@@ -54,4 +54,4 @@
   - [Data Stewardship Competence Groups](7ResourcesReferences/2CF-DSP.md)
   - [Draft Body of Knowledge](7ResourcesReferences/3BoK.md)
   - [Knowledge units and corresponding learning outcomes](7ResourcesReferences/4KnowledgeUnits_LearningOutcomes.md)
-  - [References](7ResourcesReferences/References.md)
+  - [References](7ResourcesReferences/5References.md)
