@@ -91,3 +91,6 @@ The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, met
 **References**
 
 Biernacka, K., Bierwirth, M., Dolzycka, D., Helbig, K., Neumann, J., Odebrecht, C., Wilkes, C., Wuttke, U. (2020). Train-the-Trainer Concept on Research Data Management (Version 3.0): Zenodo. [http://doi.org/10.5281/zenodo.4071471](http://doi.org/10.5281/zenodo.4071471)
+
+---
+
