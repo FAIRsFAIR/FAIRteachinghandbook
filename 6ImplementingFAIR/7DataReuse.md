@@ -8,7 +8,7 @@ When multiple parties are involved in a research project, it is good practice to
 
 Before data are shared, involved parties should talk to each other to discuss data sharing issues and come to a joint agreement, which is then documented in a data sharing agreement. The process for creating data sharing agreements may vary from country to country and from institution to institution. It is also possible that other terminology is in use, such as ‛information sharing agreement&#39; rather than data sharing agreement.
 
-A data sharing agreement
+A data sharing agreement:
 
 - establishes roles and responsibilities;
 - specifies the purpose of the data sharing;
