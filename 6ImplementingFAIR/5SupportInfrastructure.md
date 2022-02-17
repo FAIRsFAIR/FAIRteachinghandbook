@@ -46,8 +46,11 @@ While most repositories have at least some features that can be used to ensure l
 
 Digital preservation as defined by the _OAIS reference model_ (CCSDS 2012) ensures that data are secure, findable and usable for as long as needed. Not only do many research funders require datasets to be made available for up to ten years, or in perpetuity, it is also best practice and in the interest of both the institute and individual researchers to ensure that generated research data remain accessible after a period of time, even if the software and technology in use at that time are now outdated.
 
-The [_DPC Rapid Assessment Model_](https://www.dpconline.org/digipres/implement-digipres/dpc-ram) (DPC 2021) has been designed to perform rapid benchmarking of an organisation&#39;s digital preservation capacity. This includes tools and considerations when making a business case to implement digital preservation as well as procurement and training. The DPC also hosts the [Digital Preservation Handbook](https://www.dpconline.org/handbook) (DPC 2015) which offers plenty of advice on how institutions can develop their capacities in this area.
+The [*DPC Rapid Assessment Model*](https://www.dpconline.org/digipres/implement-digipres/dpc-ram) (DPC 2021) has been designed to perform rapid benchmarking of an organisation&#39;s digital preservation capacity. This includes tools and considerations when making a business case to implement digital preservation as well as procurement and training. The DPC also hosts the [Digital Preservation Handbook](https://www.dpconline.org/handbook) (DPC 2015) which offers plenty of advice on how institutions can develop their capacities in this area.
 
-Learn more:
+**Learn more:**
+
 - Lesson Plan 8: [Persistent identifiers (PIDs)](../5FAIRlessonPlans/8LessonPlan.md)
 - Lesson Plan 11: [Repositories](../5FAIRlessonPlans/11LessonPlan.md)
+
+---
