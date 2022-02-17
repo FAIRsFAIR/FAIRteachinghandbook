@@ -172,6 +172,10 @@
 7. Creation of the DMP for a project relevant for learners
 8. Preparation of a presentation for defence
 
+---
+
 **(17)** [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/)
 
 **(18)** [https://www.cessda.eu/var/cessda/storage/images/cessda-training/expert-tour-guide/a-training/20171119_benefitsdmp_tekengebied-12/33308-1-eng-GB/20171119_BenefitsDMP_Tekengebied-1_large.png](https://www.cessda.eu/var/cessda/storage/images/cessda-training/expert-tour-guide/a-training/20171119_benefitsdmp_tekengebied-12/33308-1-eng-GB/20171119_BenefitsDMP_Tekengebied-1_large.png)
+
+---
