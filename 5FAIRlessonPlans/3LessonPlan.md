@@ -76,3 +76,5 @@ Lab/field notebook
 **Exercises**
 
 - [LEGO® Metadata for Reproducibility game pack - Enlighten: Publications](http://dx.doi.org/10.36399/gla.pubs.196477)
+
+---
