@@ -1,8 +1,8 @@
-# 6 – Implementing FAIR
+# 6. Implementing FAIR
 
 ![](../Images/6_Implementing_FAIR.PNG)
 
-## 6.1 Introduction
+## 6.1. Introduction
 
 Researchers cannot be left alone to do the heavy lifting in data management according to FAIR principles; they need to rely on support services provided by their institutions. In view of this, this chapter shifts the perspective from the individual researcher or research projects to the institution: 
 
