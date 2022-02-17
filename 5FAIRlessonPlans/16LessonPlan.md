@@ -20,14 +20,14 @@ This lesson serves to deliver a concise overview of the data management and gove
 
 **Delivery format:**
 
-This lesson can be delivered in the form of lectures and practice, a tutorial or self-paced, self-study course.  
-Suggested time: 2 lecture sessions (1.5 hrs each) and 1 practice session (approx 1.5 hrs).
+- This lesson can be delivered in the form of lectures and practice, a tutorial or self-paced, self-study course.  
+- Suggested time: 2 lecture sessions (1.5 hrs each) and 1 practice session (approx 1.5 hrs).
 
 **Prerequisites:**
 
-Basic knowledge of computer software and applications.  
-Understanding of organisational processes (HR/staff, customers, products, shipments, orders, etc.) and data used or produced.  
-Basic understanding of SQL for the advanced course.
+- Basic knowledge of computer software and applications.  
+- Understanding of organisational processes (HR/staff, customers, products, shipments, orders, etc.) and data used or produced.  
+- Basic understanding of SQL for the advanced course.
 
 **Lesson topics (Summary of tasks/actions):**
 
@@ -63,17 +63,19 @@ Hands-on practice including the following topics:
 
 **References**
 
-1. DAMA Data Management Body of Knowledge (DMBOK), DAMA International, 2017
-2. GO FAIR Initiative [online] – [https://www.go-fair.org/go-fair-initiative/](https://www.go-fair.org/go-fair-initiative/)
-3. General Data Protection Regulation – [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
-4. DMP Templates – [https://guides.lib.umich.edu/c.php?g=283277&amp;p=2138498](https://guides.lib.umich.edu/c.php?g=283277&amp;p=2138498)
-5. Towards FAIR principles for research software – [https://doi.org/10.3233/DS-190026](https://doi.org/10.3233/DS-190026)
-6. A European strategy for data COM(2020) 66 final, 19.02.2020 – [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066)
-7. European Data Governance Act [https://ec.europa.eu/digital-single-market/en/european-data-governance](https://ec.europa.eu/digital-single-market/en/european-data-governance)
-8. EU/Parliament Regulation on European data governance (Data Governance Act) SEC(2020) 405 final, Nov 2020 – [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0767](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0767)
-9. GAIA-X – A Federated Data Infrastructure for Europe – [https://www.gaia-x.eu/](https://www.gaia-x.eu/)
-10. FAIR Cookbook, developed by Life Sciences academics and pharmas, 2021 – [https://w3id.org/faircookbook](https://w3id.org/faircookbook)
+- DAMA Data Management Body of Knowledge (DMBOK), DAMA International, 2017
+- GO FAIR Initiative [online] – [https://www.go-fair.org/go-fair-initiative/](https://www.go-fair.org/go-fair-initiative/)
+- General Data Protection Regulation – [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+- DMP Templates – [https://guides.lib.umich.edu/c.php?g=283277&amp;p=2138498](https://guides.lib.umich.edu/c.php?g=283277&amp;p=2138498)
+- Towards FAIR principles for research software – [https://doi.org/10.3233/DS-190026](https://doi.org/10.3233/DS-190026)
+- A European strategy for data COM(2020) 66 final, 19.02.2020 – [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066)
+- European Data Governance Act [https://ec.europa.eu/digital-single-market/en/european-data-governance](https://ec.europa.eu/digital-single-market/en/european-data-governance)
+- EU/Parliament Regulation on European data governance (Data Governance Act) SEC(2020) 405 final, Nov 2020 – [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0767](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0767)
+- GAIA-X – A Federated Data Infrastructure for Europe – [https://www.gaia-x.eu/](https://www.gaia-x.eu/)
+1- FAIR Cookbook, developed by Life Sciences academics and pharmas, 2021 – [https://w3id.org/faircookbook](https://w3id.org/faircookbook)
 
 **Take-home task**
 
 Organisational data management plan creation (using the provided template and/or online tools)
+
+---
