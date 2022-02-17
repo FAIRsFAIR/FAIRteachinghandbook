@@ -11,7 +11,9 @@ Reference
 [About the authors \& facilitators](2AboutThisBook/5AboutAuthorsFacilitators.md)
 
 # Copyright statement
-Abc
+The Handbook is free to use according to the terms of the CC-BY license.
 
 # Funding
 FAIRsFAIR “Fostering FAIR Data Practices In Europe” has received funding from the European Union’s Horizon 2020 project call H2020-INFRAEOSC-2018-2020 grant agreement 831558
+
+---
