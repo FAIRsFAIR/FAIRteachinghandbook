@@ -1,6 +1,6 @@
-# How to be FAIR with your data. A teaching and training handbook for higher education institutions
+![](../Images/2_2_figure_1.png)
 
-![]()
+# How to be FAIR with your data. A teaching and training handbook for higher education institutions
 
 ## How this book came about
 Summary of how this book came about
