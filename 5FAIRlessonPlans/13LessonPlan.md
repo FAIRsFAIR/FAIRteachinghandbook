@@ -74,17 +74,12 @@ Data access categories (24, 25) can be:
 
 **References**
 
-Research Data Bootcamp (Bristol) - Repositories for sensitive data: [https://data.blogs.bristol.ac.uk/bootcampsd/repositories/](https://data.blogs.bristol.ac.uk/bootcampsd/repositories/)
-
-CESSDA Data Management Expert Guide: [https://doi.org/10.5281/zenodo.3820472](https://doi.org/10.5281/zenodo.3820472)
-
-Open Data Handbook: [https://opendatahandbook.org](https://opendatahandbook.org/)
-
-FOSTER Open Science: [The Open Science Training Handbook | Zenodo](https://zenodo.org/record/2587951#.YL9MWIfiuUk) (p18 onwards)
-
-[FAIR Cookbook: Declaring data&#39;s permitted uses](https://w3id.org/faircookbook/FCB035)
-
-[Data Sharing guidelines – WUR](https://www.wur.nl/en/Value-Creation-Cooperation/Collaborating-with-WUR-1/WDCC/Data-Management-WDCC/Data-policy/Data-Sharing-guidelines.htm)
+- Research Data Bootcamp (Bristol) - Repositories for sensitive data: [https://data.blogs.bristol.ac.uk/bootcampsd/repositories/](https://data.blogs.bristol.ac.uk/bootcampsd/repositories/)
+- CESSDA Data Management Expert Guide: [https://doi.org/10.5281/zenodo.3820472](https://doi.org/10.5281/zenodo.3820472)
+- Open Data Handbook: [https://opendatahandbook.org](https://opendatahandbook.org/)
+- FOSTER Open Science: [The Open Science Training Handbook | Zenodo](https://zenodo.org/record/2587951#.YL9MWIfiuUk) (p18 onwards)
+- [FAIR Cookbook: Declaring data&#39;s permitted uses](https://w3id.org/faircookbook/FCB035)
+- [Data Sharing guidelines – WUR](https://www.wur.nl/en/Value-Creation-Cooperation/Collaborating-with-WUR-1/WDCC/Data-Management-WDCC/Data-policy/Data-Sharing-guidelines.htm)
 
 **Take-home tasks**
 
