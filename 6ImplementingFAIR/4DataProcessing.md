@@ -1,4 +1,4 @@
-## 6.4 Data processing and documentation
+## 6.4. Data processing and documentation
 
 Data processing constitutes a key step in the data lifecycle and one that researchers must undertake to make data useful for analyses (Paine et al. 2015). Many scholars in information science and other fields point out that knowledge and understanding of the context of data creation are necessary to be able to analyse, share, and reuse data, e.g. Faniel and Jacobsen 2010. Initially, research data are often referred to as ‛raw&#39;, meaning they are yet to undergo processing following their creation. However, Gitelman&#39;s (2013) impressive edited volume ‛Raw data is an oxymoron&#39; emphasised that data are never raw and always already embody decisions. Embracing the FAIR principles helps to ensure that data processing decisions remain explicit and are documented.
 
@@ -18,3 +18,5 @@ Support services at the institutional level can usually only provide general gui
 - Lesson Plan 4: [Data creation](../5FAIRlessonPlans/4LessonPlan.md)
 - Lesson Plan 6: [Metadata](../5FAIRlessonPlans/6LessonPlan.md)
 - Lesson Plan 7: [Data standardisation and ontologies](../5FAIRlessonPlans/7LessonPlan.md)
+
+---
