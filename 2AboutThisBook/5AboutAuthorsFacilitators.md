@@ -2,6 +2,7 @@
 
 | **Name, Affiliation &amp; ORCID** | **CRediT Roles** ([https://credit.niso.org/](https://credit.niso.org/)) |
 | --- | --- |
+| Claudia Engelhardt, University of Göttingen, <br>0000-0002-3391-7638 | Lead author <br>Writing – original draft Writing – reviewing and editing <br>Project administration |
 | Raisa Barthauer, University of Göttingen, <br>0000-0003-0938-8104 | Writing – reviewing and editing |
 | Katarzyna Biernacka, Humboldt-Universität zu Berlin, <br>0000-0002-6363-0064 | Writing – original draft Writing – reviewing and editing |
 | Aoife Coffey, University College Cork, <br>0000-0001-5008-3711 | Writing – original draft |
@@ -9,7 +10,6 @@
 | Alina Danciu, Sciences Po Paris, <br>0000-0002-5126-0078 | Writing – original draft Writing – reviewing and editing |
 | Yuri Demchenko, University of Amsterdam, <br>0000-0001-7474-9506 | Writing – original draft Writing – reviewing and editing |
 | Stephen Downes, National Research Council of Canada, <br>0000-0001-6797-9012 | Writing – original draft Writing – reviewing and editing |
-| Claudia Engelhardt, University of Göttingen, <br>0000-0002-3391-7638 | Writing – original draft Writing – reviewing and editing <br>Project administration |
 | Christopher Erdmann, American Geophysical Union, <br>0000-0003-2554-180X | Writing – original draft |
 | Federica Garbuglia, European University Association, <br>0000-0002-9162-4446 | Writing – original draft Writing – reviewing and editing |
 | Kerstin Germer, Humboldt-Universität zu Berlin, <br>0000-0002-4707-5793 | Writing – original draft Writing – reviewing and editing |
