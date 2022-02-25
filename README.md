@@ -19,10 +19,10 @@ This GitBook is hosted and technically maintained by the University of Minho. Mi
 ## Acknowledgements
 This handbook underwent a community review from 26 July to 12 September 2021. We are grateful to all contributors for their valuable, much appreciated feedback.
 
-We would like to extend special thanks for their extensive and thorough review and contribution to:  
+**We would like to extend special thanks for their extensive and thorough review and contribution to:**  
 Romain David, Hervé L’Hours, Karsten Peters, Esther Plomp, Muriel Swijghuisen Reigersberg, Francesco Varrato, Niklas Zimmer
 
-Furthermore, we would like to thank:  
+**Furthermore, we would like to thank:**  
 Esther Asef, Bill Ayres, Noemi BC, Fay Campbell, Leyla Jael Castro, Julien Colomb, Philipp Conzett, Antica Culina, Stefanie De Bodt, Vilém Děd, Julian Dederke, Mary Donaldson, Christina Elsenga, Jeanine Finn, Vinciane Gaillard, Marjan Grootveld, W H, Simon Kerridge, Ilja Kocken, Ellen Leenarts, Allyson Lister, Lachlan MacLeod, Izaskun Mallona, Paula Martinez Lavanchy, Janice Masud-Paul, Joke Meeus, Gene Melzack, Megan O’Donnell, Lisanna Paladin, Limor Peer, Robin Rice, Jürgen Rohrwild, Susanna-Assunta Sansone, Gabriele Schwiertz, Yasmeen Shorish, Shelley Stall, Alexander Steckel, Liz Stokes, Annette Strauch, Ádám Száldobágyi, Rick Thompson, Christophe Trefois, Enrique Wulff, as well as everyone who contributed anonymously.
 
 ## Copyright statement
