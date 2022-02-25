@@ -6,7 +6,7 @@
 This handbook aims to support higher education institutions with the integration of FAIR-related content in their curricula and teaching. It was written and edited by a group of about 40 collaborators in a series of six book sprint events that took place between 1 and 10 June 2021. The document provides practical material, such as competence profiles, learning outcomes and lesson plans, and supporting information. It incorporates community feedback received during the public consultation which ran from 27 July to 12 September 2021.
 
 ## How to refer to the handbook
-Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to 
+Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to:
 - [GitBook URL](GitBook URL), which is the most friendly way to read the book, to comment and to suggest changes, or
 - [https://doi.org/10.5281/zenodo.5665492](https://doi.org/10.5281/zenodo.5665492), which is a citable DOI refering to the FAIRsFAIR project deliverable in PDF.
 
