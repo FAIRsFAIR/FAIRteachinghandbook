@@ -11,10 +11,19 @@ Please consider citing the handbook when using the content. To cite the book, we
 - [https://doi.org/10.5281/zenodo.5665492](https://doi.org/10.5281/zenodo.5665492), which is a citable DOI refering to the FAIRsFAIR project deliverable in PDF.
 
 ## The Authors and the Book Sprint facilitators
-[About the authors \& facilitators](2AboutThisBook/5AboutAuthorsFacilitators.md)
+Get to know the [Authors \& Facilitators](2AboutThisBook/5AboutAuthorsFacilitators.md) 
 
 ## Maintenance
 This GitBook is hosted and technically maintained by the University of Minho. Minor amendments (e.g. of typos, broken links, please let us know if you spot any) will be amended. However, in terms of content, it should be regarded as a “frozen publication” for the time being, i.e. we will not update the content. We approached community initiatives regarding their potential involvement in future revisions, but these discussions are still ongoing.
+
+## Acknowledgements
+This handbook underwent a community review from 26 July to 12 September 2021. We are grateful to all contributors for their valuable, much appreciated feedback.
+
+We would like to extend special thanks for their extensive and thorough review and contribution to:  
+Romain David, Hervé L’Hours, Karsten Peters, Esther Plomp, Muriel Swijghuisen Reigersberg, Francesco Varrato, Niklas Zimmer
+
+Furthermore, we would like to thank:  
+Esther Asef, Bill Ayres, Noemi BC, Fay Campbell, Leyla Jael Castro, Julien Colomb, Philipp Conzett, Antica Culina, Stefanie De Bodt, Vilém Děd, Julian Dederke, Mary Donaldson, Christina Elsenga, Jeanine Finn, Vinciane Gaillard, Marjan Grootveld, W H, Simon Kerridge, Ilja Kocken, Ellen Leenarts, Allyson Lister, Lachlan MacLeod, Izaskun Mallona, Paula Martinez Lavanchy, Janice Masud-Paul, Joke Meeus, Gene Melzack, Megan O’Donnell, Lisanna Paladin, Limor Peer, Robin Rice, Jürgen Rohrwild, Susanna-Assunta Sansone, Gabriele Schwiertz, Yasmeen Shorish, Shelley Stall, Alexander Steckel, Liz Stokes, Annette Strauch, Ádám Száldobágyi, Rick Thompson, Christophe Trefois, Enrique Wulff, as well as everyone who contributed anonymously.
 
 ## Copyright statement
 The Handbook is free to use and available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
