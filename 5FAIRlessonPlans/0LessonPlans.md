@@ -17,7 +17,7 @@ List of lesson plans on RDM- and FAIR-related topics:
 9. [Licences, copyright and intellectual property rights (IPR) issues](9LessonPlan.md)
 10. [Finding and reusing data](10LessonPlan.md)
 11. [Repositories](11LessonPlan.md)
-12. [Dealing with confidential, personal, sen- sitive &amp; private data and ethical aspects](12LessonPlan.md)
+12. [Dealing with confidential, personal, sensitive &amp; private data and ethical aspects](12LessonPlan.md)
 13. [Data access](13LessonPlan.md)
 14. [FAIR software/citable code](14LessonPlan.md)
 15. [Research data management – overview and best practices](15LessonPlan.md)
