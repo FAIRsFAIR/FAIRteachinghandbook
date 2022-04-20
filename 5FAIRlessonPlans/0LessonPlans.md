@@ -28,7 +28,7 @@ All lesson plans follow the [same format](https://docs.google.com/document/d/1YO
 _Table 8: Mapping of lesson plans to FAIR principles_
 
 | **Lesson** | **F1** | **F2** | **F3** | **F4** | **A1** | **A2** | **I1** | **I2** | **I3** | **R1** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | FAIR in a nutshell | X | X | X | X | X | X | X | X | X | X |
 | Data management plans | X | X | X | X | X | X | X | X | X | X |
 | Documentation | | | | | | | | | | X |
