@@ -27,24 +27,24 @@ All lesson plans follow the [same format](https://docs.google.com/document/d/1YO
 
 _Table 8: Mapping of lesson plans to FAIR principles_
 
-| **Lesson** | | **F1** | **F2** | **F3** | **F4** | | **A1** | **A2** | | **I1** | **I2** | **I3** | | **R1** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FAIR in a nutshell | | X | X | X | X | | X | X | | X | X | X | | X |
-| Data management plans | | X | X | X | X | | X | X | | X | X | X | | X |
-| Documentation | | | | | | | | | | | | | | X |
-| Data creation | | X | X | X | X | | X | X | | X | X | X | | X |
-| File formats | | X | X | X | X | | X | X | | X | X | X | | X |
-| Metadata | | X | X | X | X | | X | X | | X | X | X | | X |
-| Data standardisation and ontologies | | X | | | | | X | X | | X | | | | X |
-| Persistent identifiers | | X | X | X | X | | X | X | | | | | | |
-| Licences, copyright and intellectual property rights issues | | | | | | | | | | | | | | X |
-| Finding and reusing data | | | | | | | | | | | | | | X |
-| Repositories | | X | X | X | X | | X | X | | X | X | X | | X |
-| Dealing with confidential, personal, sensitive and private data and ethical aspects | | | | | | | X | X | | | | | | X |
-| Data access | | X | X | X | X | | X | X | | X | X | X | | |
-| FAIR software/citable code | | X | X | X | X | | X | X | | X | X | X | | X |
-| Research data management – overview and best practices | | X | X | X | X | | X | X | | X | X | X | | X |
-| Data management and governance in industry and research | | X | X | X | X | | X | X | | X | X | X | | X |
+| **Lesson** | **F1** | **F2** | **F3** | **F4** | **A1** | **A2** | **I1** | **I2** | **I3** | **R1** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FAIR in a nutshell | X | X | X | X | X | X | X | X | X | X |
+| Data management plans | X | X | X | X | X | X | X | X | X | X |
+| Documentation | | | | | | | | | | X |
+| Data creation | X | X | X | X | X | X | X | X | X | X |
+| File formats | X | X | X | X | X | X | X | X | X | X |
+| Metadata | X | X | X | X | X | X | X | X | X | X |
+| Data standardisation and ontologies | X | | | | X | X | X | | | X |
+| Persistent identifiers | X | X | X | X | X | X | | | | |
+| Licences, copyright and intellectual property rights issues | | | | | | | | | | | X |
+| Finding and reusing data | | | | | | | | | | X |
+| Repositories | X | X | X | X | X | X | X | X | X | X |
+| Dealing with confidential, personal, sensitive and private data and ethical aspects | | | | | X | X | | | | X |
+| Data access | X | X | X | X | X | X | X | X | X | |
+| FAIR software/citable code | X | X | X | X | X | X | X | X | X | X |
+| Research data management – overview and best practices | X | X | X | X | X | X | X | X | X | X |
+| Data management and governance in industry and research | X | X | X | X | X | X | X | X | X | X |
 
 _Table 9: Mapping of the competence profile topics to the lesson plans_
 
