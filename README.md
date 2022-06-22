@@ -8,7 +8,7 @@ This handbook aims to support higher education institutions with the integration
 ## How to refer to the handbook
 Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to:
 - [GitBook URL](GitBook URL), which is the most friendly way to read the book, to comment and to suggest changes, or
-- [https://doi.org/10.5281/zenodo.5665492](https://doi.org/10.5281/zenodo.5665492), which is a citable DOI refering to the FAIRsFAIR project deliverable in PDF.
+- [https://doi.org/10.17875/gup2022-1915](https://doi.org/10.17875/gup2022-1915), which is a citable DOI refering to the print Open Access PDF version by Göttingen University Press.
 
 ## The Authors and the Book Sprint facilitators
 Get to know the [Authors \& Facilitators](2AboutThisBook/5AboutAuthorsFacilitators.md) 
