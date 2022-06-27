@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 1. Introduction
 
 ![](Images/2\_2\_figure\_1.png)
