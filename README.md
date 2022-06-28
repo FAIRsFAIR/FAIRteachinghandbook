@@ -21,7 +21,7 @@ Get to know the [Authors & Facilitators](2AboutThisBook/5AboutAuthorsFacilitator
 
 ### Maintenance
 
-This GitBook is hosted and technically maintained by the University of Minho. Minor amendments (e.g. of typos, broken links, please let us know if you spot any) will be amended. However, in terms of content, it should be regarded as a “frozen publication” for the time being, i.e. we will not update the content. We approached community initiatives regarding their potential involvement in future revisions, but these discussions are still ongoing.
+This GitBook is maintained by the University of Minho. Minor amendments (e.g. of typos, broken links, please let us know if you spot any) will be amended. However, in terms of content, it should be regarded as a “frozen publication” for the time being, i.e. we will not update the content. We approached community initiatives regarding their potential involvement in future revisions, but these discussions are still ongoing.
 
 ### Acknowledgements
 
