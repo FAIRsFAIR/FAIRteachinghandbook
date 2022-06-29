@@ -1,8 +1,7 @@
-# 1. Introduction
+# How to be FAIR with your data. A teaching and training handbook for higher education institutions
 
 ![](Images/2\_2\_figure\_1.png)
 
-## How to be FAIR with your data. A teaching and training handbook for higher education institutions
 
 ### Abstract
 
@@ -12,7 +11,7 @@ This handbook aims to support higher education institutions with the integration
 
 Please consider citing the handbook when using the content. To cite the book, we recommend that you either refer to:
 
-* \[GitBook URL]\(GitBook URL), which is the most friendly way to read the book, to comment and to suggest changes, or
+* GitBook URL [https://fairsfair.gitbook.io/fair-teaching-handbook/](https://fairsfair.gitbook.io/fair-teaching-handbook/), which is the most friendly way to read the book, to comment and to suggest changes, or
 * [https://doi.org/10.17875/gup2022-1915](https://doi.org/10.17875/gup2022-1915), which is a citable DOI referring to the print and Open Access PDF version by Göttingen University Press.
 
 ### The Authors and the Book Sprint facilitators
